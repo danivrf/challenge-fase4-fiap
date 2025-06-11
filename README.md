@@ -168,6 +168,16 @@ Por exemplo, um gráfico de linha da vibração (rosa), umidade (laranja), verde
 
 <img src="assets/grafico.png"  width=40% height=40%>
 
+Extraindo os dados e executando o script em python temos o grafico de leitura ao longo do tempo, demonstrando a variação dos dados ao longo do tempo
+
+<img src="assets/leituras_ao_logo_tempo.png" height=46%>
+
+E abaixo o gráfico demonstrando o gráfico de dispersão e demonstranco a correlação entre as variaveis 
+
+<img src="assets/dispersao.png" height=46%>
+
+
+
 ## 🗃 Histórico de lançamentos
 
 ## 📋 Licença
