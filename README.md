@@ -199,7 +199,24 @@ E abaixo o gráfico demonstrando o gráfico de dispersão e demonstranco a corre
 
 
 
-## 🗃 Histórico de lançamentos
+## 🗃 Histórico de Lançamentos
+
+* **0.5.0 - 12/06/2025**
+    * **Conclusão do Projeto:** Finalização e organização da documentação no README.
+    * **Revisão Geral:** Últimos ajustes e validações para a entrega final do desafio.
+
+* **0.4.0 - 07/06/2025**
+    * **Atualização de Regras:** Implementação de mudanças nas **Regras de Negócio** e na **Lógica de Alertas** dentro do código Wokwi.
+    * **Desenvolvimento Contínuo:** Aprimoramento e adição de funcionalidades ao código principal.
+
+* **0.3.0 - 05/06/2025**
+    * **Início do Desenvolvimento:** Codificação inicial do projeto dentro do ambiente Wokwi.
+
+* **0.2.0 - 30/05/2025**
+    * **Planejamento Detalhado:** Definição mais aprofundada dos requisitos e da arquitetura do projeto.
+
+* **0.1.0 - 28/05/2025**
+    * **Início do Projeto:** Criação do repositório no GitHub e fase inicial de planejamento.
 
 ## 📋 Licença
 
