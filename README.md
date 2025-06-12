@@ -32,6 +32,27 @@ Este projeto foi desenvolvido como parte do desafio da **Hermes Reply**, focado 
 
 A simulação foi construída na plataforma **Wokwi**, permitindo a criação de um circuito virtual, a programação de sensores e a coleta de dados para análise, replicando um cenário de digitalização do chão de fábrica.
 
+## 📁 Estrutura de pastas
+
+```
+challenge-fase4-fiap/
+├── assets/                    # Arquivos de imagem e gráficos gerados pelo projeto
+│
+├── base_dados_sensores/       # Scripts e arquivos relacionados à base de dados dos sensores
+│   ├── Sensores_202505262231.csv
+│   └── main.py                # Script que processa os dados e gera gráficos
+│
+├── wokwi/                     # Projeto de simulação no Wokwi para ESP32
+│   ├── ESP32 NTP Example.ino  # Código Arduino usado na simulação
+│   ├── diagram.json           # Diagrama do circuito virtual
+│   ├── libraries.txt          # Lista de bibliotecas utilizadas
+│   └── wokwi-project.txt      # Metadados da simulação no Wokwi
+│
+├── README.md                  # Documentação do projeto
+└── .DS_Store                  # Arquivo gerado automaticamente pelo macOS (pode ser ignorado)
+
+```
+
 ## 1. Sensores Virtuais e Justificativa
 
 Para este projeto, foram selecionados os seguintes sensores, que são fundamentais para o monitoramento da saúde e segurança de equipamentos industriais:
